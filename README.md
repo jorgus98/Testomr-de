@@ -1,2 +1,2 @@
 # Testomr-de
-Start av emne 
+Dette er et test område for å krangle med git.
